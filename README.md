@@ -1,7 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/qqchenhai/qinwei.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-(https://jekyllrb.com/)
+You can use the [editor on GitHub](https://github.com/qqchenhai/qinwei.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown file
 个人主页-勤缺
 
 
